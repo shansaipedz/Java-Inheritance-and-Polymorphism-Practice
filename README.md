@@ -4,7 +4,7 @@
 
 This project is a simple **Java Object-Oriented Programming (OOP) exercise** designed to demonstrate the use of **inheritance**, **abstraction**, and **polymorphism** through geometric shapes. It defines a generic abstract class `Shape`, and specific subclasses `Circle`, `Square`, and `Triangle`, each providing their own implementations for computing area and perimeter.
 
-The main class, `IT2344Practice01.java`, serves as the entry point to instantiate and manipulate these shape objects—showcasing dynamic method dispatch and encapsulation in action.
+The main class, `IT2344Practice01.java`, serves as the entry point to instantiate and manipulate these shape objects, showcasing dynamic method dispatch and encapsulation in action.
 
 This project is ideal for students or beginners looking to solidify their understanding of core OOP principles in Java.
 
